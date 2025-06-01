@@ -61,6 +61,7 @@ npm run build
 ```
 
 2. 将 `dist` 目录下的文件上传到你的网站服务器
+3. 添加"VITE_WORKER_URL"与"vVITE_API_URL"值均为worker地址
 
 ### 7. 配置邮件路由
 
@@ -107,10 +108,3 @@ npm run build
 
 如果遇到问题，可以：
 1. 查看 [Cloudflare Workers 文档](https://developers.cloudflare.com/workers/)
-2. 在 GitHub 上提交 Issue
-3. 联系技术支持
-
-## 许可证
-
-MIT License"# Code-Receiver" 
-"# Code-Receiver" 
