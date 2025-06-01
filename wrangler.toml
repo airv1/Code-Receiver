@@ -1,0 +1,6 @@
+name = "sms-forwarding"
+main = "worker/worker.js"
+compatibility_date = "2024-01-01"
+
+[vars]
+ALLOWED_ORIGIN = "https://gv.airv.us" 

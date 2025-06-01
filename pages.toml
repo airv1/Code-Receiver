@@ -1,0 +1,9 @@
+[build]
+command = "npm run build"
+output_dir = "dist"
+
+[site]
+bucket = "./dist"
+
+[pages]
+pages_build_output_dir = "dist" 
